@@ -1,0 +1,1229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="source_chunk" attr.type="string" />
+  <key id="d2" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d1" for="node" attr.name="source_chunks" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Next.js">
+      <data key="d0">Framework</data>
+      <data key="d1">chunk_0000,chunk_0011</data>
+    </node>
+    <node id="React">
+      <data key="d0">Library</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="TypeScript">
+      <data key="d0">Language</data>
+      <data key="d1">chunk_0000,chunk_0001</data>
+    </node>
+    <node id="Tailwind CSS">
+      <data key="d0">CSS Framework</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="Headless UI">
+      <data key="d0">Component Library</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="Radix UI">
+      <data key="d0">Component Library</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="React Query">
+      <data key="d0">Library</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="Zustand">
+      <data key="d0">State Management</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="Recoil">
+      <data key="d0">State Management</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="Jotai">
+      <data key="d0">State Management</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="HLS.js">
+      <data key="d0">Library</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="HTML5 Audio">
+      <data key="d0">API</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="Web Audio API">
+      <data key="d0">API</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="OAuth2">
+      <data key="d0">Authentication Protocol</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="OIDC">
+      <data key="d0">Authentication Protocol</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="PWA">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0000</data>
+    </node>
+    <node id="Node.js">
+      <data key="d0">Runtime</data>
+      <data key="d1">chunk_0000,chunk_0001</data>
+    </node>
+    <node id="NestJS">
+      <data key="d0">Framework</data>
+      <data key="d1">chunk_0000,chunk_0001</data>
+    </node>
+    <node id="REST">
+      <data key="d0">API Protocol</data>
+      <data key="d1">chunk_0000,chunk_0001</data>
+    </node>
+    <node id="gRPC">
+      <data key="d0">API Protocol</data>
+      <data key="d1">chunk_0000,chunk_0001</data>
+    </node>
+    <node id="Kafka">
+      <data key="d0">Message Broker</data>
+      <data key="d1">chunk_0000,chunk_0001,chunk_0011</data>
+    </node>
+    <node id="NATS">
+      <data key="d0">Message Broker</data>
+      <data key="d1">chunk_0000,chunk_0001,chunk_0011</data>
+    </node>
+    <node id="RabbitMQ">
+      <data key="d0">Message Broker</data>
+      <data key="d1">chunk_0000,chunk_0001,chunk_0011</data>
+    </node>
+    <node id="Nginx">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0001</data>
+    </node>
+    <node id="Envoy">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0001</data>
+    </node>
+    <node id="Kong">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0001</data>
+    </node>
+    <node id="PostgreSQL">
+      <data key="d0">Database</data>
+      <data key="d1">chunk_0001,chunk_0009</data>
+    </node>
+    <node id="Redis">
+      <data key="d0">Database</data>
+      <data key="d1">chunk_0001,chunk_0009,chunk_0010</data>
+    </node>
+    <node id="Elasticsearch">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0001</data>
+    </node>
+    <node id="OpenSearch">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0001</data>
+    </node>
+    <node id="ClickHouse">
+      <data key="d0">Database</data>
+      <data key="d1">chunk_0001,chunk_0008,chunk_0010</data>
+    </node>
+    <node id="S3-compatible object storage">
+      <data key="d0">Storage</data>
+      <data key="d1">chunk_0001</data>
+    </node>
+    <node id="CloudFront">
+      <data key="d0">CDN</data>
+      <data key="d1">chunk_0001</data>
+    </node>
+    <node id="Fastly">
+      <data key="d0">CDN</data>
+      <data key="d1">chunk_0001</data>
+    </node>
+    <node id="Cloudflare">
+      <data key="d0">CDN</data>
+      <data key="d1">chunk_0001</data>
+    </node>
+    <node id="Docker">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0001,chunk_0002</data>
+    </node>
+    <node id="Kubernetes">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0001,chunk_0002</data>
+    </node>
+    <node id="Vault">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0001,chunk_0002</data>
+    </node>
+    <node id="Secrets Manager">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0001,chunk_0002</data>
+    </node>
+    <node id="GitHub Actions">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0002</data>
+    </node>
+    <node id="GitLab CI">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0002</data>
+    </node>
+    <node id="Prometheus">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0002</data>
+    </node>
+    <node id="Grafana">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0002</data>
+    </node>
+    <node id="OpenTelemetry">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0002</data>
+    </node>
+    <node id="API Gateway">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0002</data>
+    </node>
+    <node id="Backend for Frontend">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0002</data>
+    </node>
+    <node id="Auth &amp; Identity Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0002</data>
+    </node>
+    <node id="User Profile Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0002,chunk_0003</data>
+    </node>
+    <node id="JWT">
+      <data key="d0">Token</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Opaque Token">
+      <data key="d0">Token</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Refresh Token">
+      <data key="d0">Token</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Device Sessions">
+      <data key="d0">Management</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Display Name">
+      <data key="d0">User Attribute</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Avatar">
+      <data key="d0">User Attribute</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Profile Settings">
+      <data key="d0">User Attribute</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="User Preferences">
+      <data key="d0">User Attribute</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Language">
+      <data key="d0">Preference</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Explicit Content Filter">
+      <data key="d0">Preference</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Theme">
+      <data key="d0">Preference</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Catalog Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Music Metadata">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Tracks">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0003,chunk_0010</data>
+    </node>
+    <node id="Albums">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0003,chunk_0010,chunk_0015</data>
+    </node>
+    <node id="Artists">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0003,chunk_0010,chunk_0015</data>
+    </node>
+    <node id="Genres">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0003,chunk_0015</data>
+    </node>
+    <node id="Moods">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0003,chunk_0015</data>
+    </node>
+    <node id="Album-Track">
+      <data key="d0">Relationship</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Artist-Track">
+      <data key="d0">Relationship</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Core Tables">
+      <data key="d0">Data Structure</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Users">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0003,chunk_0010</data>
+    </node>
+    <node id="Credentials">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Sessions">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Devices">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="User Profile">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="User Settings">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Track Audio Files">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0003</data>
+    </node>
+    <node id="Search &amp; Discovery Index Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="Library &amp; Playlist Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="Playback &amp; Session Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="Streaming / Media Delivery Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0004,chunk_0005</data>
+    </node>
+    <node id="Elasticsearch/OpenSearch">
+      <data key="d0">Technology</data>
+      <data key="d1">chunk_0004,chunk_0010</data>
+    </node>
+    <node id="tracks">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="albums">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="artists">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="playlists">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="podcasts">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004,chunk_0007</data>
+    </node>
+    <node id="Your Library">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="liked songs">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="saved albums">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="followed artists">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="playback state">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="current track">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="position">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="shuffle">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="repeat">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="queue">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004</data>
+    </node>
+    <node id="devices">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004,chunk_0005</data>
+    </node>
+    <node id="playback_sessions">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004,chunk_0005</data>
+    </node>
+    <node id="playback_queue">
+      <data key="d0">Data</data>
+      <data key="d1">chunk_0004,chunk_0005</data>
+    </node>
+    <node id="WebSocket channel">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0005</data>
+    </node>
+    <node id="Recommendation &amp; Personalization Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0005</data>
+    </node>
+    <node id="Social &amp; Activity Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0005,chunk_0006</data>
+    </node>
+    <node id="Subscription &amp; Billing Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0006</data>
+    </node>
+    <node id="Ads Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0006</data>
+    </node>
+    <node id="Content Ingestion &amp; Creator Portal Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0006,chunk_0007</data>
+    </node>
+    <node id="Stripe">
+      <data key="d0">Payment Gateway</data>
+      <data key="d1">chunk_0006</data>
+    </node>
+    <node id="Razorpay">
+      <data key="d0">Payment Gateway</data>
+      <data key="d1">chunk_0006</data>
+    </node>
+    <node id="audio ad">
+      <data key="d0">ad</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="ad_campaigns">
+      <data key="d0">table</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="ad_creatives">
+      <data key="d0">table</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="ad_impressions">
+      <data key="d0">table</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="ad_events">
+      <data key="d0">table</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="Artist/label portal">
+      <data key="d0">portal</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="uploads">
+      <data key="d0">table</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="rights">
+      <data key="d0">table</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="creator_profiles">
+      <data key="d0">table</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="episodes">
+      <data key="d0">table</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="Media Processor Service">
+      <data key="d0">service</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="FFmpeg">
+      <data key="d0">software</data>
+      <data key="d1">chunk_0007</data>
+    </node>
+    <node id="Analytics &amp; Events Service">
+      <data key="d0">service</data>
+      <data key="d1">chunk_0007,chunk_0008</data>
+    </node>
+    <node id="object storage">
+      <data key="d0">Storage</data>
+      <data key="d1">chunk_0008</data>
+    </node>
+    <node id="Catalog/Streaming services">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0008</data>
+    </node>
+    <node id="Recommendation Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0009</data>
+    </node>
+    <node id="Notification Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0009</data>
+    </node>
+    <node id="Admin &amp; Backoffice Service">
+      <data key="d0">Service</data>
+      <data key="d1">chunk_0009</data>
+    </node>
+    <node id="Profiles">
+      <data key="d0">Profile</data>
+      <data key="d1">chunk_0010</data>
+    </node>
+    <node id="Subscriptions">
+      <data key="d0">Subscription</data>
+      <data key="d1">chunk_0010</data>
+    </node>
+    <node id="Playlists">
+      <data key="d0">Playlist</data>
+      <data key="d1">chunk_0010,chunk_0014,chunk_0015</data>
+    </node>
+    <node id="Follows">
+      <data key="d0">Follow</data>
+      <data key="d1">chunk_0010</data>
+    </node>
+    <node id="Object Storage">
+      <data key="d0">Storage</data>
+      <data key="d1">chunk_0010,chunk_0011</data>
+    </node>
+    <node id="CDN">
+      <data key="d0">Content Delivery Network</data>
+      <data key="d1">chunk_0010,chunk_0011</data>
+    </node>
+    <node id="Message Queue">
+      <data key="d0">Messaging System</data>
+      <data key="d1">chunk_0010,chunk_0011</data>
+    </node>
+    <node id="HLS segments">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0011</data>
+    </node>
+    <node id="manifests">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0011</data>
+    </node>
+    <node id="Cover images">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0011</data>
+    </node>
+    <node id="avatars">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0011</data>
+    </node>
+    <node id="thumbnails">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0011</data>
+    </node>
+    <node id="Podcast episodes">
+      <data key="d0">Media</data>
+      <data key="d1">chunk_0011</data>
+    </node>
+    <node id="Landing page">
+      <data key="d0">Web Page</data>
+      <data key="d1">chunk_0011</data>
+    </node>
+    <node id="Auth">
+      <data key="d0">Web Page</data>
+      <data key="d1">chunk_0011,chunk_0014</data>
+    </node>
+    <node id="Public artist view">
+      <data key="d0">Web Page</data>
+      <data key="d1">chunk_0011</data>
+    </node>
+    <node id="Public album view">
+      <data key="d0">Web Page</data>
+      <data key="d1">chunk_0011</data>
+    </node>
+    <node id="Personalized home feed">
+      <data key="d0">Web Page</data>
+      <data key="d1">chunk_0011,chunk_0016</data>
+    </node>
+    <node id="Full search UI">
+      <data key="d0">Web Page</data>
+      <data key="d1">chunk_0011,chunk_0012</data>
+    </node>
+    <node id="Liked songs">
+      <data key="d0">Web Page</data>
+      <data key="d1">chunk_0011,chunk_0012</data>
+    </node>
+    <node id="User playlists">
+      <data key="d0">Web Page</data>
+      <data key="d1">chunk_0011,chunk_0012</data>
+    </node>
+    <node id="Saved albums">
+      <data key="d0">Collection</data>
+      <data key="d1">chunk_0012</data>
+    </node>
+    <node id="Followed artists">
+      <data key="d0">Collection</data>
+      <data key="d1">chunk_0012</data>
+    </node>
+    <node id="Playlist">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013</data>
+    </node>
+    <node id="Queue">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013,chunk_0014</data>
+    </node>
+    <node id="Account">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013</data>
+    </node>
+    <node id="Subscription">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013</data>
+    </node>
+    <node id="Privacy">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013</data>
+    </node>
+    <node id="Creator portal">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013</data>
+    </node>
+    <node id="Admin">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013,chunk_0018</data>
+    </node>
+    <node id="Global UI components">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013</data>
+    </node>
+    <node id="User &amp; Auth">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013</data>
+    </node>
+    <node id="Email/password auth">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013</data>
+    </node>
+    <node id="Social login">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0013</data>
+    </node>
+    <node id="User">
+      <data key="d0">Entity</data>
+      <data key="d1">chunk_0014</data>
+    </node>
+    <node id="Playback">
+      <data key="d0">Entity</data>
+      <data key="d1">chunk_0014</data>
+    </node>
+    <node id="Player">
+      <data key="d0">Entity</data>
+      <data key="d1">chunk_0014</data>
+    </node>
+    <node id="Library">
+      <data key="d0">Entity</data>
+      <data key="d1">chunk_0014</data>
+    </node>
+    <node id="Device">
+      <data key="d0">Entity</data>
+      <data key="d1">chunk_0014</data>
+    </node>
+    <node id="Preferences">
+      <data key="d0">Entity</data>
+      <data key="d1">chunk_0014</data>
+    </node>
+    <node id="Profile">
+      <data key="d0">Entity</data>
+      <data key="d1">chunk_0014</data>
+    </node>
+    <node id="Auto-play recommendations">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0015</data>
+    </node>
+    <node id="Liked songs collection">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0015</data>
+    </node>
+    <node id="Podcasts">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0015</data>
+    </node>
+    <node id="Episodes">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0015</data>
+    </node>
+    <node id="Search">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0015</data>
+    </node>
+    <node id="Autocomplete suggestions">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Search history">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Content type filter">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Song Radio">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Artist Radio">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Daily Mix-style playlists">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Weekly discovery playlist">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Follow users">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Friend activity feed">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Collaborative playlists">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Share links">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Mini-player">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Free tier">
+      <data key="d0">Subscription</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Premium tier">
+      <data key="d0">Subscription</data>
+      <data key="d1">chunk_0016,chunk_0017</data>
+    </node>
+    <node id="Payment integration">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016,chunk_0017</data>
+    </node>
+    <node id="Plan change flows">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016,chunk_0017</data>
+    </node>
+    <node id="Cancellations">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Proration behavior">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0016</data>
+    </node>
+    <node id="Billing history">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Ads">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Creator / Label Portal">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Admin / Moderation">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Artist/label onboarding">
+      <data key="d0">Process</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Track and album upload">
+      <data key="d0">Process</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Metadata management">
+      <data key="d0">Process</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Analytics dashboard">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Search / inspect users">
+      <data key="d0">Process</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Ban/suspend accounts">
+      <data key="d0">Process</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Takedown and restore content">
+      <data key="d0">Process</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Abuse reports queue">
+      <data key="d0">Feature</data>
+      <data key="d1">chunk_0017</data>
+    </node>
+    <node id="Moderation">
+      <data key="d0">Function</data>
+      <data key="d1">chunk_0018</data>
+    </node>
+    <node id="Analytics">
+      <data key="d0">Function</data>
+      <data key="d1">chunk_0018</data>
+    </node>
+    <node id="Reporting">
+      <data key="d0">Function</data>
+      <data key="d1">chunk_0018</data>
+    </node>
+    <node id="Security">
+      <data key="d0">Function</data>
+      <data key="d1">chunk_0018</data>
+    </node>
+    <node id="Compliance">
+      <data key="d0">Function</data>
+      <data key="d1">chunk_0018</data>
+    </node>
+    <node id="Spotify-like web application">
+      <data key="d0">Application</data>
+      <data key="d1">chunk_0019</data>
+    </node>
+    <node id="100,000+ daily users">
+      <data key="d0">User Metric</data>
+      <data key="d1">chunk_0019</data>
+    </node>
+    <edge source="Next.js" target="React" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0000</data>
+    </edge>
+    <edge source="Next.js" target="TypeScript" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0000</data>
+    </edge>
+    <edge source="Next.js" target="Landing page" id="0">
+      <data key="d2">STRUCTURES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Next.js" target="Auth" id="0">
+      <data key="d2">STRUCTURES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Next.js" target="Public artist view" id="0">
+      <data key="d2">STRUCTURES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Next.js" target="Public album view" id="0">
+      <data key="d2">STRUCTURES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Next.js" target="Personalized home feed" id="0">
+      <data key="d2">STRUCTURES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Next.js" target="Full search UI" id="0">
+      <data key="d2">STRUCTURES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Next.js" target="Liked songs" id="0">
+      <data key="d2">STRUCTURES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Next.js" target="User playlists" id="0">
+      <data key="d2">STRUCTURES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Tailwind CSS" target="Headless UI" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0000</data>
+    </edge>
+    <edge source="Tailwind CSS" target="Radix UI" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0000</data>
+    </edge>
+    <edge source="React Query" target="TypeScript" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0000</data>
+    </edge>
+    <edge source="HLS.js" target="HTML5 Audio" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0000</data>
+    </edge>
+    <edge source="HLS.js" target="Web Audio API" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0000</data>
+    </edge>
+    <edge source="Node.js" target="TypeScript" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0000</data>
+    </edge>
+    <edge source="Node.js" target="TypeScript" id="1">
+      <data key="d2">USED_WITH</data>
+      <data key="d3">chunk_0001</data>
+    </edge>
+    <edge source="NestJS" target="Node.js" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0000</data>
+    </edge>
+    <edge source="NestJS" target="Node.js" id="1">
+      <data key="d2">USED_WITH</data>
+      <data key="d3">chunk_0001</data>
+    </edge>
+    <edge source="NestJS" target="TypeScript" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0000</data>
+    </edge>
+    <edge source="API Gateway" target="Backend for Frontend" id="0">
+      <data key="d2">PART_OF</data>
+      <data key="d3">chunk_0002</data>
+    </edge>
+    <edge source="User Profile Service" target="Display Name" id="0">
+      <data key="d2">MANAGES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="User Profile Service" target="Avatar" id="0">
+      <data key="d2">MANAGES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="User Profile Service" target="Profile Settings" id="0">
+      <data key="d2">MANAGES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="User Profile Service" target="User Preferences" id="0">
+      <data key="d2">MANAGES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="User Preferences" target="Language" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="User Preferences" target="Explicit Content Filter" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="User Preferences" target="Theme" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Catalog Service" target="Music Metadata" id="0">
+      <data key="d2">STORES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Music Metadata" target="Tracks" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Music Metadata" target="Albums" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Music Metadata" target="Artists" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Music Metadata" target="Genres" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Music Metadata" target="Moods" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Music Metadata" target="Album-Track" id="0">
+      <data key="d2">MANAGES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Music Metadata" target="Artist-Track" id="0">
+      <data key="d2">MANAGES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Music Metadata" target="Track Audio Files" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Core Tables" target="Users" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Core Tables" target="Credentials" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Core Tables" target="Sessions" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Core Tables" target="Devices" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Core Tables" target="User Profile" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Core Tables" target="User Settings" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0003</data>
+    </edge>
+    <edge source="Search &amp; Discovery Index Service" target="tracks" id="0">
+      <data key="d2">indexes</data>
+      <data key="d3">chunk_0004</data>
+    </edge>
+    <edge source="Search &amp; Discovery Index Service" target="albums" id="0">
+      <data key="d2">indexes</data>
+      <data key="d3">chunk_0004</data>
+    </edge>
+    <edge source="Search &amp; Discovery Index Service" target="artists" id="0">
+      <data key="d2">indexes</data>
+      <data key="d3">chunk_0004</data>
+    </edge>
+    <edge source="Search &amp; Discovery Index Service" target="playlists" id="0">
+      <data key="d2">indexes</data>
+      <data key="d3">chunk_0004</data>
+    </edge>
+    <edge source="Search &amp; Discovery Index Service" target="podcasts" id="0">
+      <data key="d2">indexes</data>
+      <data key="d3">chunk_0004</data>
+    </edge>
+    <edge source="Library &amp; Playlist Service" target="Your Library" id="0">
+      <data key="d2">implements</data>
+      <data key="d3">chunk_0004</data>
+    </edge>
+    <edge source="Library &amp; Playlist Service" target="playlists" id="0">
+      <data key="d2">manages</data>
+      <data key="d3">chunk_0004</data>
+    </edge>
+    <edge source="Playback &amp; Session Service" target="playback state" id="0">
+      <data key="d2">stores</data>
+      <data key="d3">chunk_0004</data>
+    </edge>
+    <edge source="Playback &amp; Session Service" target="playback_sessions" id="0">
+      <data key="d2">manages</data>
+      <data key="d3">chunk_0004</data>
+    </edge>
+    <edge source="Playback &amp; Session Service" target="devices" id="0">
+      <data key="d2">manages</data>
+      <data key="d3">chunk_0004</data>
+    </edge>
+    <edge source="Subscription &amp; Billing Service" target="Stripe" id="0">
+      <data key="d2">INTEGRATES_WITH</data>
+      <data key="d3">chunk_0006</data>
+    </edge>
+    <edge source="Subscription &amp; Billing Service" target="Razorpay" id="0">
+      <data key="d2">INTEGRATES_WITH</data>
+      <data key="d3">chunk_0006</data>
+    </edge>
+    <edge source="Content Ingestion &amp; Creator Portal Service" target="Artist/label portal" id="0">
+      <data key="d2">MANAGES</data>
+      <data key="d3">chunk_0007</data>
+    </edge>
+    <edge source="Content Ingestion &amp; Creator Portal Service" target="uploads" id="0">
+      <data key="d2">PROCESSES</data>
+      <data key="d3">chunk_0007</data>
+    </edge>
+    <edge source="Content Ingestion &amp; Creator Portal Service" target="podcasts" id="0">
+      <data key="d2">PROCESSES</data>
+      <data key="d3">chunk_0007</data>
+    </edge>
+    <edge source="audio ad" target="ad_campaigns" id="0">
+      <data key="d2">SERVES</data>
+      <data key="d3">chunk_0007</data>
+    </edge>
+    <edge source="audio ad" target="ad_impressions" id="0">
+      <data key="d2">TRACKS</data>
+      <data key="d3">chunk_0007</data>
+    </edge>
+    <edge source="audio ad" target="ad_events" id="0">
+      <data key="d2">TRACKS</data>
+      <data key="d3">chunk_0007</data>
+    </edge>
+    <edge source="Media Processor Service" target="FFmpeg" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0007</data>
+    </edge>
+    <edge source="Analytics &amp; Events Service" target="ClickHouse" id="0">
+      <data key="d2">stores</data>
+      <data key="d3">chunk_0008</data>
+    </edge>
+    <edge source="Analytics &amp; Events Service" target="Catalog/Streaming services" id="0">
+      <data key="d2">notifies</data>
+      <data key="d3">chunk_0008</data>
+    </edge>
+    <edge source="Analytics &amp; Events Service" target="object storage" id="0">
+      <data key="d2">writes to</data>
+      <data key="d3">chunk_0008</data>
+    </edge>
+    <edge source="Recommendation Service" target="Notification Service" id="0">
+      <data key="d2">FEEDS</data>
+      <data key="d3">chunk_0009</data>
+    </edge>
+    <edge source="Notification Service" target="Admin &amp; Backoffice Service" id="0">
+      <data key="d2">SUPPORTS</data>
+      <data key="d3">chunk_0009</data>
+    </edge>
+    <edge source="Playlists" target="Liked songs collection" id="0">
+      <data key="d2">INCLUDES</data>
+      <data key="d3">chunk_0015</data>
+    </edge>
+    <edge source="Playlists" target="Albums" id="0">
+      <data key="d2">CAN_CONTAIN</data>
+      <data key="d3">chunk_0015</data>
+    </edge>
+    <edge source="Playlists" target="Artists" id="0">
+      <data key="d2">CAN_CONTAIN</data>
+      <data key="d3">chunk_0015</data>
+    </edge>
+    <edge source="Playlists" target="Genres" id="0">
+      <data key="d2">CAN_BE_FILTERED_BY</data>
+      <data key="d3">chunk_0015</data>
+    </edge>
+    <edge source="Playlists" target="Moods" id="0">
+      <data key="d2">CAN_BE_FILTERED_BY</data>
+      <data key="d3">chunk_0015</data>
+    </edge>
+    <edge source="Object Storage" target="CDN" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Message Queue" target="Kafka" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Message Queue" target="NATS" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Message Queue" target="RabbitMQ" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0011</data>
+    </edge>
+    <edge source="Full search UI" target="Liked songs" id="0">
+      <data key="d2">HAS_COLLECTION</data>
+      <data key="d3">chunk_0012</data>
+    </edge>
+    <edge source="Full search UI" target="User playlists" id="0">
+      <data key="d2">HAS_COLLECTION</data>
+      <data key="d3">chunk_0012</data>
+    </edge>
+    <edge source="Full search UI" target="Saved albums" id="0">
+      <data key="d2">HAS_COLLECTION</data>
+      <data key="d3">chunk_0012</data>
+    </edge>
+    <edge source="Full search UI" target="Followed artists" id="0">
+      <data key="d2">HAS_COLLECTION</data>
+      <data key="d3">chunk_0012</data>
+    </edge>
+    <edge source="Queue" target="Playback" id="0">
+      <data key="d2">IS_PART_OF</data>
+      <data key="d3">chunk_0014</data>
+    </edge>
+    <edge source="Admin" target="Moderation" id="0">
+      <data key="d2">PERFORMS</data>
+      <data key="d3">chunk_0018</data>
+    </edge>
+    <edge source="Admin" target="Analytics" id="0">
+      <data key="d2">PERFORMS</data>
+      <data key="d3">chunk_0018</data>
+    </edge>
+    <edge source="Admin" target="Reporting" id="0">
+      <data key="d2">PERFORMS</data>
+      <data key="d3">chunk_0018</data>
+    </edge>
+    <edge source="Admin" target="Security" id="0">
+      <data key="d2">PERFORMS</data>
+      <data key="d3">chunk_0018</data>
+    </edge>
+    <edge source="Admin" target="Compliance" id="0">
+      <data key="d2">PERFORMS</data>
+      <data key="d3">chunk_0018</data>
+    </edge>
+    <edge source="User" target="Auth" id="0">
+      <data key="d2">HAS</data>
+      <data key="d3">chunk_0014</data>
+    </edge>
+    <edge source="User" target="Profile" id="0">
+      <data key="d2">HAS</data>
+      <data key="d3">chunk_0014</data>
+    </edge>
+    <edge source="User" target="Preferences" id="0">
+      <data key="d2">HAS</data>
+      <data key="d3">chunk_0014</data>
+    </edge>
+    <edge source="User" target="Device" id="0">
+      <data key="d2">MANAGES</data>
+      <data key="d3">chunk_0014</data>
+    </edge>
+    <edge source="User" target="Library" id="0">
+      <data key="d2">HAS</data>
+      <data key="d3">chunk_0014</data>
+    </edge>
+    <edge source="Playback" target="Player" id="0">
+      <data key="d2">USES</data>
+      <data key="d3">chunk_0014</data>
+    </edge>
+    <edge source="Library" target="Playlists" id="0">
+      <data key="d2">CONTAINS</data>
+      <data key="d3">chunk_0014</data>
+    </edge>
+    <edge source="Search" target="Artists" id="0">
+      <data key="d2">SEARCHES_FOR</data>
+      <data key="d3">chunk_0015</data>
+    </edge>
+    <edge source="Search" target="Albums" id="0">
+      <data key="d2">SEARCHES_FOR</data>
+      <data key="d3">chunk_0015</data>
+    </edge>
+    <edge source="Search" target="Playlists" id="0">
+      <data key="d2">SEARCHES_FOR</data>
+      <data key="d3">chunk_0015</data>
+    </edge>
+    <edge source="Search" target="Podcasts" id="0">
+      <data key="d2">SEARCHES_FOR</data>
+      <data key="d3">chunk_0015</data>
+    </edge>
+  </graph>
+</graphml>
